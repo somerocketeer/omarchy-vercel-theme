@@ -2,6 +2,8 @@
 
 A minimal, Vercel-inspired dark theme with deep neutrals and crisp accent colors.
 
+<img width="3840" height="2560" alt="screenshot-2025-09-14_20-10-18" src="https://github.com/user-attachments/assets/5f5b4363-9c81-4c75-952f-e985ff7560cb" />
+
 ## Palette (Vercel)
 Core (neutral, dark base)
 - Primary Background:   #111111 (Near-black)
