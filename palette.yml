@@ -1,0 +1,44 @@
+# Zed Vercel theme palette (machine-readable)
+primary_bg: "#0A0A0A"        # Editor background
+secondary_bg: "#000000"      # Surfaces/panels
+tertiary_bg: "#1A1A1A"       # Active line / elevated surface
+primary_accent: "#52A8FF"    # Blue
+secondary_accent: "#1DA9B0"  # Cyan
+tertiary_accent: "#C472FB"   # Magenta
+text_primary: "#EDEDED"      # Off-white
+text_secondary: "#A1A1A1"    # Muted
+text_dim: "#878787"          # Dim (e.g., line numbers)
+success: "#62C073"           # Green (success)
+warning: "#FF9907"           # Yellow/amber (warning)
+error: "#F75F8F"             # Red/pink (error)
+info: "#52A8FF"              # Info blue
+selection_bg: "#1A1A1A"
+
+# Terminal ANSI based on Zed theme
+ansi_normal:
+  black:   "#000000"
+  red:     "#F75F8F"
+  green:   "#62C073"
+  yellow:  "#FF9907"
+  blue:    "#52A8FF"
+  magenta: "#C472FB"
+  cyan:    "#1DA9B0"
+  white:   "#A1A1A1"
+ansi_bright:
+  black:   "#676767"
+  red:     "#F75F8F"
+  green:   "#62C073"
+  yellow:  "#FF9907"
+  blue:    "#52A8FF"
+  magenta: "#C472FB"
+  cyan:    "#1DA9B0"
+  white:   "#EDEDED"
+ansi_dim:
+  black:   "#000000"
+  red:     "#F75F8F"
+  green:   "#62C073"
+  yellow:  "#FF9907"
+  blue:    "#52A8FF"
+  magenta: "#C472FB"
+  cyan:    "#1DA9B0"
+  white:   "#A1A1A1"
